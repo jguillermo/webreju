@@ -1,0 +1,25 @@
+path: src/auction
+pathTest: test/auction
+nameSpace: app.auction
+name: Auction
+properties:
+  id: id
+  expedient: string
+  judicialDistrict: string
+  district: string
+  province: string
+  department: string
+  fechaResolucion: string
+  description: string
+  convocatoria: string
+  tipoCambio: string
+  tasacion: string
+  precioBase: string
+  incremento: string
+  arancel: string
+  oblaje: string
+  tipoInmueble: string
+  direccion: string
+  cargaGravamen: string
+  porcentaje: string
+  presentacionOferta: string

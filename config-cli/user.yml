@@ -1,7 +1,0 @@
-path: src/user
-pathTest: test/user
-nameSpace: app.user
-name: User
-properties:
-  id: id
-  name: string
